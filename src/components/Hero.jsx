@@ -11,7 +11,7 @@ export default function Hero() {
           A través del Sistema ACC 3.0, impulsamos la movilidad social con herramientas tecnológicas, certificaciones de clase mundial y un modelo de alto impacto respaldado por Microsoft, ICEMéxico y Open English.
         </p>
         <a
-          href="#registro"
+          href="https://zenacentrodecompetencia.com/"
           className="inline-block bg-white text-zena-blue font-semibold px-8 py-3 rounded-full border-2 border-transparent hover:border-white hover:bg-transparent hover:text-white transition-all duration-300"
         >
           ¡Comienza tu camino con ZENA!
